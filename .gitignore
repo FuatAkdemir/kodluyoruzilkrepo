@@ -3,11 +3,8 @@
 *.gif
 
 ignoreTest/
-<<<<<<< HEAD
 ignoreTest - 2/
-!sifreler/pass.txt
-=======
 ! sifreler/pass.txt
->>>>>>> dc6c8005a30d9d15bff7f54b176201d227de266f
+
 
 
