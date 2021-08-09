@@ -7,8 +7,9 @@ ignoreTest - 2/
 ignoreTest - 3/!ignTest3.txt
 ignoreTest-4/ !ignTest4.txt
 ignoreTest5/ign5.txt
-ignoreTest6/ign6.txt
-ignoreTest7/!ign7.txt
+ignoreTest6/ign6.txt 	# ign6.txt ignored
+ignoreTest7/!ign7.txt	# hepsi eklendi
+!ignoreTest8/ign8.txt	#
 
 ! sifreler/pass.txt
 
