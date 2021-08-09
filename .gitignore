@@ -3,6 +3,7 @@
 *.gif
 
 ignoreTest/
+ignoreTest - 2/
 !sifreler/pass.txt
 
 
