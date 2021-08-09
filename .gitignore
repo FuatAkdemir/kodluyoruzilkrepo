@@ -3,6 +3,6 @@
 *.gif
 
 ignoreTest/
-!şifreler/pass - 2.txt
+!şifreler/pass.txt
 
 
