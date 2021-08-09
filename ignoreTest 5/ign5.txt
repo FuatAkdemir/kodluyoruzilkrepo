@@ -1,0 +1,3 @@
+Merhaba,
+
+Bu bir şifre dosyasıdır ve gizlidir.

@@ -5,6 +5,9 @@
 ignoreTest/
 ignoreTest - 2/
 ignoreTest - 3/!ignTest3.txt
+ignoreTest-4/ !ignTest4.txt
+ignoreTest5/ign5.txt
+
 ! sifreler/pass.txt
 
 
