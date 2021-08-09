@@ -10,6 +10,7 @@ ignoreTest5/ign5.txt
 ignoreTest6/ign6.txt 	# ign6.txt ignored
 ignoreTest7/!ign7.txt	# hepsi eklendi
 !ignoreTest8/ign8.txt	#
+!files/example.txt
 
 ! sifreler/pass.txt
 
