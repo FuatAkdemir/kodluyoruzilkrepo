@@ -10,7 +10,7 @@ select first_name from actor except select first_name from customer;
 -- 4-a)
 select first_name from actor union all select first_name from customer;
 
--- 4-b) intersect için tekrarlayan veri olması söz konusu değildir. 
+-- 4-b) intersect iÃ§in tekrarlayan veri olmasÄ± sÃ¶z konusu deÄŸildir. Zaten kesiÅŸen elemanlar seÃ§ilmektedir.  
 
--- 4-c) except için tekrarlayan veri olması söz konusu değildir.
-
+-- 4-c) 
+select first_name from actor except all select first_name from customer;
