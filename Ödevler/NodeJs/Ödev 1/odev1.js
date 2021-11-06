@@ -7,3 +7,5 @@ function daireninAlani(yaricap){
 }
 
 daireninAlani(arg[0] * 1);
+
+ 
